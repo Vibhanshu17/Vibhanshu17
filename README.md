@@ -2,7 +2,7 @@
 
 <!--
 **Vibhanshu17/Vibhanshu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--!>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Quantum Computing
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... vibhanshu1729@gmail.com
 - 😄 Pronouns: ... He/ him
 - ⚡ Fun fact: ...
--->
